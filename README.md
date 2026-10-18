@@ -101,7 +101,7 @@ A pasta [`svg/`](svg) traz os elementos desenhados para o painel escuro:
 └── DataGo_Relatorio_modelo_ajustado.pbix
 ```
 
-> **Sobre o `.pbix`:** contém os dados importados do dataset do Kaggle (cerca de 18 MB). O painel oficial é a página "Painel escuro" (o arquivo traz também uma versão clara, que ficou como rascunho). Abra no Power BI Desktop; o aviso de login que ele pode exibir pode ser cancelado.
+> **Sobre o `.pbix`:** contém os dados importados do dataset do Kaggle (cerca de 18 MB; colunas de e-mail e senha do cliente removidas). Abra no Power BI Desktop; o aviso de login que ele pode exibir pode ser cancelado.
 
 ## 🗂️ Fonte dos dados
 
