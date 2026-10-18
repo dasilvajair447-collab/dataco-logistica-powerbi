@@ -114,7 +114,7 @@ Power BI Desktop · DAX · Power Query · SVG
 
 ## 👤 Autor
 
-**Jair** — Coordenação de Business Intelligence · Power BI e Excel
+**Jair** — Analista de Dados · Power BI e Excel
 [GitHub](https://github.com/dasilvajair447-collab)
 
 ## 📄 Licença
