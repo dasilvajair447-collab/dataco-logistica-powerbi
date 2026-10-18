@@ -1,6 +1,6 @@
 # 📊 Painel de Logística — DataCo Global (Power BI)
 
-Case de BI completo sobre logística e vendas: do dado bruto ao painel, passando pela revisão do modelo de dados, medidas em DAX e dois painéis (claro e escuro) com identidade visual própria em SVG.
+Case de BI completo sobre logística e vendas: do dado bruto ao painel, passando pela revisão do modelo de dados, medidas em DAX e um painel escuro com identidade visual própria em SVG.
 
 > ⚠️ **Aviso:** os dados vêm de um dataset público do Kaggle. As conclusões valem para esse dataset e não representam empresas reais.
 
@@ -74,15 +74,11 @@ Ticket Médio por Pedido = DIVIDE ( [Receita], [Pedidos] )
 - **Taxa de atraso** = pedidos atrasados ÷ total de pedidos.
 - **Margem** = lucro ÷ receita.
 
-## 🎨 Painéis
+## 🎨 Painel
 
-O relatório tem duas páginas que respondem às mesmas perguntas:
+![Painel escuro](imagens/painel_escuro.png)
 
-| Painel claro | Painel escuro |
-|---|---|
-| _(print em breve)_ | ![Escuro](imagens/painel_escuro.png) |
-
-O painel escuro usa cartões em degradê, menu lateral, filtros suspensos (Mercado, Modo de envio e Departamento), tabelas com barras de dados e mini-gráficos nos cartões.
+O painel usa cartões em degradê, menu lateral, filtros suspensos (Mercado, Modo de envio e Departamento), tabelas com barras de dados e mini-gráficos nos cartões. Responde às seis perguntas de negócio acima.
 
 ### Ativos SVG
 
@@ -105,7 +101,7 @@ A pasta [`svg/`](svg) traz os elementos desenhados para o painel escuro:
 └── DataGo_Relatorio_modelo_ajustado.pbix
 ```
 
-> **Sobre o `.pbix`:** contém os dados importados do dataset do Kaggle (cerca de 18 MB). Abra no Power BI Desktop; o aviso de login que ele pode exibir pode ser cancelado.
+> **Sobre o `.pbix`:** contém os dados importados do dataset do Kaggle (cerca de 18 MB). O painel oficial é a página "Painel escuro" (o arquivo traz também uma versão clara, que ficou como rascunho). Abra no Power BI Desktop; o aviso de login que ele pode exibir pode ser cancelado.
 
 ## 🗂️ Fonte dos dados
 
