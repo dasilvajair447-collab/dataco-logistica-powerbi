@@ -84,7 +84,11 @@ O painel usa cartões em degradê, menu lateral, filtros suspensos (Mercado, Mod
 
 A pasta [`svg/`](svg) traz os elementos desenhados para o painel escuro:
 
-- `fundo_painel.svg` (fundo da página, 1280×720)
+- `fundo_painel_completo.svg`: fundo da página (1280×720) com menu lateral, logo e ícones dos cartões já embutidos. Pode ser aplicado direto como imagem de fundo da página, sem visuais de imagem por cima.
+
+Peças separadas, para reutilizar em outros projetos:
+
+- `fundo_painel.svg` (só cartões e painéis, 1280×720)
 - `menu_lateral.svg`
 - `logo_dataco.svg`
 - `icone_receita.svg`, `icone_pedidos.svg`, `icone_atraso.svg`
