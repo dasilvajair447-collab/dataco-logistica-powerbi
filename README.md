@@ -36,7 +36,7 @@ Responder às principais perguntas de negócio da área de logística:
 | Pedidos atrasados | 36.048 |
 | Taxa de atraso geral | 54,8% |
 
-- **A First Class (modo premium) atrasa em 95,3% dos pedidos**; Second Class 76,7%, Same Day 46,1% e Standard Class 38,1%.
+- **A First Class (promessa de 1 dia, o segundo serviço mais rápido) atrasa em 95,3% dos pedidos**; Second Class 76,7%, Same Day 46,1% e Standard Class 38,1%.
 - A taxa de atraso é parecida em todos os mercados (54,1% a 55,3%), o que sugere um problema de **processo** (ou da forma de medir o atraso) e não de um mercado específico.
 - No 4º trimestre de 2017, o número de pedidos sobe enquanto a receita cai.
 
