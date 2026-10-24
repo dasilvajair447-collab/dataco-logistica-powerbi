@@ -1,5 +1,9 @@
 # 📊 Painel de Logística — DataCo Global (Power BI)
 
+![Navegação entre as páginas Visão geral e Prazo x Real](imagens/navegacao_paginas.gif)
+
+*Navegação pelo menu lateral entre as duas páginas do relatório. Ilustração montada com capturas reais das páginas; o cursor e o clique foram desenhados.*
+
 Case de BI completo sobre logística e vendas: do dado bruto ao painel, passando pela revisão do modelo de dados, medidas em DAX e um painel escuro com identidade visual própria em SVG. O relatório tem duas páginas: a **visão geral** e a análise **Prazo x Real** (prazo prometido x prazo real de entrega por modo de envio), com navegação pelo menu lateral para alternar entre elas.
 
 > ⚠️ **Aviso:** os dados vêm de um dataset público do Kaggle. As conclusões valem para esse dataset e não representam empresas reais.
@@ -184,7 +188,7 @@ Peças separadas, para reutilizar em outros projetos:
 ```
 .
 ├── README.md
-├── imagens/          # prévias das duas páginas do relatório
+├── imagens/          # prévias das duas páginas e GIF de navegação
 ├── svg/              # ícones, menu, logo e fundos
 ├── LICENSE
 └── DataGo_Relatorio_modelo_atualizado.pbix
